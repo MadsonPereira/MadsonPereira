@@ -1,0 +1,11 @@
+mkidir - ele cria a pasta
+ls - ele mostra os arquivos que tem dentro da pastagit checkout - ele cia limha do tempo (branch)
+cd ../ - muda a pasta
+cd ./(nome do novo arquivo) - ele cria um novo arquivo
+git checkout -b - ele cria e muda de branch
+history - mostra o histórico de tudo que foi feito
+git status - mostra se tem algo para atualizar
+git add --all - adiciona suas mudanças para a limha do tempo
+touch - cria um arquivo
+pull - puxa as informações do repositorio
+push - leva as informações do repositorio
